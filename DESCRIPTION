@@ -1,13 +1,14 @@
 Package: pkg1r
-Title: What the Package Does (One Line, Title Case)
+Title: Nothing in particular
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Tom",
+           family = "Curnock",
            role = c("aut", "cre"),
-           email = "first.last@example.com")
-Description: What the package does (one paragraph).
-License: What license it uses
+           email = "curnock@gmail.com")
+Description: This package is a test package. It does nothing in particular
+    Why are 4 spaces needed to flow the desription onto another line?
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/drtjc/pkg1r
